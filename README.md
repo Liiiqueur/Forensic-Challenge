@@ -1,7 +1,7 @@
 # Forensic-Challenge
 
 ## ℹ️ Information
-* 문제 분류(총 n개)
+* 문제 분류(총 1개)
 
 
  
